@@ -1,3 +1,5 @@
+package Refactorizar_Java;
+
 import javax.swing.ImageIcon;
 import java.util.ArrayList;
 // -------------------------------------------------------------------------

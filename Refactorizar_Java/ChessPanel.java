@@ -1,3 +1,5 @@
+package Refactorizar_Java;
+
 import java.awt.*;
 import javax.swing.*;
 // -------------------------------------------------------------------------
