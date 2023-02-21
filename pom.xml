@@ -1,5 +1,4 @@
 <properties>
     <sonar.organization>dunned</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-    <sonar.projectKey>Dunned_Refactorizar_Java</sonar.projectKey>
 </properties>
